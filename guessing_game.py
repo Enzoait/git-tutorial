@@ -1,5 +1,4 @@
-#! /usr/bin/
-python3
+#! /usr/bin/python3
 
 # The random package is needed to choose a random number
 import random
